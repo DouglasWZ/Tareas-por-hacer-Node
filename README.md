@@ -9,8 +9,12 @@ Recordar instalar los paquetes de node
 npm install
 ```
 
-ejecutar el comando ``` node app --help ``` para ver la lista
+ejecutar el siguiente comando para ver la lista
 de comandos disponibles y su funcionalidad
+
+``` 
+node app --help 
+``` 
 
 
 
